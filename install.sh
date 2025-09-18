@@ -21,9 +21,9 @@ display_welcome() {
   echo -e "dilarang keras untuk dikasih gratis."
   echo -e ""
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@RafatharCode"
+  echo -e "@BuronanKelasKakap"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@RafatharCode"
+  echo -e "TheKingJrii"
   sleep 4
   clear
 }
@@ -62,7 +62,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "alfibila" ]; then
+  if [ "$USER_TOKEN" = "JriiTheKing" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Buy dulu Gih Ke XVERN-JRII${NC}"
