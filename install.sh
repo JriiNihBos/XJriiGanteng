@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © RafatharCode                [+]${NC}"
+  echo -e "${BLUE}[+]                  © XVERN-JRII.                  [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${RED}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -56,7 +56,7 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY RAFATHAR CODE            [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY XVERN-JRII                [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
@@ -65,11 +65,10 @@ check_token() {
   if [ "$USER_TOKEN" = "alfibila" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
-    echo -e "${GREEN}Buy dulu Gih Ke RafatharCode X Amalia${NC}"
-    echo -e "${YELLOW}TELEGRAM : @RafatharCode${NC}"
-    echo -e "${YELLOW}WHATSAPP : 6285864743922${NC}"
+    echo -e "${GREEN}Buy dulu Gih Ke XVERN-JRII${NC}"
+    echo -e "${YELLOW}TELEGRAM : @BuronanKelasKakap${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW}©RafatharCode${NC}"
+    echo -e "${YELLOW}©XVERN-JRII${NC}"
     exit 1
   fi
   clear
@@ -282,7 +281,7 @@ exit 0
 create_node() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]                    CREATE NODE                     [+]${NC}"
+  echo -e "${BLUE}[+]                    CREATE NODE                  [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   #!/bin/bash
@@ -328,7 +327,7 @@ EOF
 
   echo -e "                                                       "
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
-  echo -e "${GREEN}[+]        CREATE NODE & LOCATION SUKSES             [+]${NC}"
+  echo -e "${GREEN}[+]        CREATE NODE & LOCATION SUKSES               [+]${NC}"
   echo -e "${GREEN}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   sleep 2
@@ -452,11 +451,11 @@ while true; do
   echo -e "${BLUE}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${BLUE} ,ggg'               'ggg.                                ${NC}"
   echo -e "${BLUE}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Auto Installer RafatharCode Private   ${NC}"
+  echo -e "${BLUE}'ggg      ,gg'''  .    ggg       Auto Installer XVERN-JRII Private   ${NC}"
   echo -e "${BLUE}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : t.me/RafatharCode     ${NC}"
-  echo -e "${BLUE} ggg:     ggg._    _,ggg        • Creadit  : RAFATHARCODE ${NC}"
-  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by RafatharCode X Amalia  ${NC}"
+  echo -e "${BLUE}ggg:     gg.     -   ,ggg       • Telegram : t.me/BuronanKelasKakap     ${NC}"
+  echo -e "${BLUE} ggg:     ggg._    _,ggg        • Creadit  : Jrii ${NC}"
+  echo -e "${BLUE} ggg.    '.'''ggggggp           • Support by XVERN-JRII  ${NC}"
   echo -e "${BLUE}  'ggg    '-.__                                           ${NC}"
   echo -e "${BLUE}    ggg                                                   ${NC}"
   echo -e "${BLUE}      ggg                                                 ${NC}"
